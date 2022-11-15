@@ -1,4 +1,4 @@
-# Fundamentals of Neural-Networks
+# Fundamentals of Neural Networks
 
 ## Curriculum Module
 
