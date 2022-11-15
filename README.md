@@ -44,15 +44,15 @@ The teaching can also be approached by following the PowerPoint presentations. I
 
 Live Scripts with complementary PowerPoint presentations are available in folders containing the following chapters: 
 
-0.  NN0 - Contents and instructions
-1.  NN1 - Introduction
-2.  NN2 - Neuron model, network architectures, learning
-3.  NN3 - Perceptron and ADALINE
-4.  NN4 - Backpropagation
-5.  NN5 - Dynamic networks
-6.  NN6 - Radial basis function networks
-7.  NN7 - Self-organizing maps
-8.  NN8 - Practical considerations
+0. [NN0 - Contents and instructions](./NN0%20-%20Contents/)
+1. [NN1 - Introduction](./NN1%20-%20Introduction/)
+2. [NN2 - Neuron model, network architectures, learning](./NN2%20-%20Neuron%20and%20architectures/)
+3. [NN3 - Perceptron and ADALINE](./NN3%20-%20Perceptron%20and%20Adaline/)
+4. [NN4 - Backpropagation](./NN4%20-%20Backpropagation/)
+5. [NN5 - Dynamic networks](./NN5%20-%20Dynamic%20networks/)
+6. [NN6 - Radial basis function networks](./NN6%20-%20RBFN/)
+7. [NN7 - Self-organizing maps](./NN7%20-%20SOM/)
+8. [NN8 - Practical considerations](./NN8%20-%20Practical/)
 
 ## Learning goals
 
