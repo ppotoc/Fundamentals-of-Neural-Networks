@@ -17,7 +17,7 @@ The contents are mainly addressed towards undergraduate courses, however, the mo
 
 ## Instructions
 
-The teaching materials can be approached either by following the Live Scripts or the PowerPoint presentations. Open the introductory live script [NN0b\_Contents\_and\_instructions.mlx](NN0%20-%20Contents/NN0b_Contents_and_instructions) or the introductory presentation [NN0a\_Contents\_and\_instructions.pptx](NN0%20-%20Contents//NN0a_Contents_and_instructions.pptx) and follow the presentation.
+The teaching materials can be approached either by following the Live Scripts or the PowerPoint presentations. Open the introductory live script [NN0b\_Contents\_and\_instructions.mlx](NN0%20-%20Contents/NN0b_Contents_and_instructions.mlx) or the introductory presentation [NN0a\_Contents\_and\_instructions.pptx](NN0%20-%20Contents//NN0a_Contents_and_instructions.pptx) and follow the presentation.
 
 ### Live Scripts
 
