@@ -15,6 +15,17 @@ The package is intended to gradually guide the students toward basic concepts in
 
 The contents are mainly addressed towards undergraduate courses, however, the modular structure allows further integration within other (postgraduate) AI-based courses. Course application areas include Neural Networks, Deep Learning, Machine Learning, Industrial diagnostics and Condition Monitoring, and Autonomous Systems.
 
+## Examples
+
+| <img src="Images/net1.jpg" width="250"><br>Solving XOR problem with<br>Multilayer Perceptron | <img src="Images/net6.jpg" width="250"><br>Solving XOR problem with<br>Radial Basis Function Network | <img src="Images/net2.jpg" width="250"><br>4-class classification with<br>Multilayer Perceptron |
+| ----------- | ----------- | ----------- |
+
+| <img src="Images/net5.jpg" width="300"><br>Function approximation with<br>Generalized Regression Neural Network | <img src="Images/net4.jpg" width="475"><br>Prediction of chaotic Mackay-Glass time series with<br>Dynamic Neural Network  | 
+| ----------- | ----------- |
+
+| <img src="Images/net3.jpg" width="250"><br>Industrial diagnostics with PCA<br>and Multilayer Perceptron | <img src="Images/net7.jpg" width="250"><br>1D Self-Organizing Map<br>representing 2D input space | <img src="Images/net8.jpg" width="250"><br>2D Self-Organizing Map<br>representing 2D input space | 
+| ----------- | ----------- | ----------- |
+
 ## Instructions
 
 The teaching materials can be approached either by following the Live Scripts or the PowerPoint presentations. Open the introductory live script [NN0b\_Contents\_and\_instructions.mlx](NN0%20-%20Contents/NN0b_Contents_and_instructions.mlx) or the introductory presentation [NN0a\_Contents\_and\_instructions.pptx](NN0%20-%20Contents//NN0a_Contents_and_instructions.pptx) and follow the presentation.
