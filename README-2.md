@@ -17,14 +17,11 @@ The contents are mainly addressed towards undergraduate courses, however, the mo
 
 ## Examples
 
-![net1](Images/net1.jpg)
-![net2](Images/net2.jpg)
-![net3](Images/net3.jpg)
-![net4](Images/net4.jpg)
-![net5](Images/net5.jpg)
-![net6](Images/net6.jpg)
-![net7](Images/net7.jpg)
-![net8](Images/net8.jpg)
+<img src="Images/net1.jpg" height="180"> <img src="Images/net2.jpg" height="180"> <img src="Images/net6.jpg" height="180">
+---
+<img src="Images/net5.jpg" height="180"> <img src="Images/net4.jpg" height="180"> 
+---
+<img src="Images/net3.jpg" height="180"> <img src="Images/net7.jpg" height="180"> <img src="Images/net8.jpg" height="180"> 
 
 ## Instructions
 
