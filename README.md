@@ -33,7 +33,7 @@ The teaching can also be approached by following the PowerPoint presentations. I
 
 Live Scripts with complementary PowerPoint presentations are available in folders containing the following chapters: 
 
-0.  [NN0 - Contents and instructions](NN0 - Contents/)
+0.  NN0 - Contents and instructions
 1.  NN1 - Introduction
 2.  NN2 - Neuron model, network architectures, learning
 3.  NN3 - Perceptron and ADALINE
