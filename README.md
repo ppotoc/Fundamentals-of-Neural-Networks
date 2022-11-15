@@ -100,4 +100,4 @@ The license for this module is available in the [LICENSE.TXT](LICENSE) file in t
 ## Acknowledgments
 
 The development of this Curriculum Module was supported by [MathWorks](https://www.mathworks.com/).
-
+Special thanks to dr. Marco Rossi, dr. Julia Hoerner, and dr. Jianghao Wang.
