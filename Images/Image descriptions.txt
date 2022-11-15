@@ -1,8 +1,0 @@
-net1	Solving XOR problem with a Multilayer Perceptron
-net2	Classification of a 4-class problem with a Multilayer Perceptron
-net3	Industrial diagnostics of compressor connection rod defects with PCA and Multilayer Perceptron
-net4	Prediction of chaotic Mackay-Glass time series with a Dynamic Neural Network
-net5	Function approximation of piecewise dataset with Generalized Regression Neural Network
-net6	Classification of XOR problem with a Radial Basis Function Network
-net7	1D Self-Organizing Map representing 2D input space
-net8	2D Self-Organizing Map representing 2D input space
