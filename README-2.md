@@ -23,6 +23,8 @@ The contents are mainly addressed towards undergraduate courses, however, the mo
 ![net4](Images/net4.jpg)
 ![net5](Images/net5.jpg)
 ![net6](Images/net6.jpg)
+![net7](Images/net7.jpg)
+![net8](Images/net8.jpg)
 
 ## Instructions
 
