@@ -17,7 +17,7 @@ The contents are mainly addressed towards undergraduate courses, however, the mo
 
 ## Examples
 
-| <img src="Images/net1.jpg" width="250"><br>Solving XOR problem with<br>Multilayer Perceptron | <img src="Images/net6.jpg" width="250"><br>Solving XOR problem with<br>Radial Basis Function Network | <img src="Images/net2.jpg" width="250"><br>4-class classification with<br>Multilayer Perceptron |
+| <img src="Images/example1.png" width="250"><br>Solving XOR problem with<br>Multilayer Perceptron | <img src="Images/example2.png" width="250"><br>Solving XOR problem with<br>Radial Basis Function Network | <img src="Images/net2.jpg" width="250"><br>4-class classification with<br>Multilayer Perceptron |
 | ----------- | ----------- | ----------- |
 
 | <img src="Images/net5.jpg" width="300"><br>Function approximation with<br>Generalized Regression Neural Network | <img src="Images/net4.jpg" width="475"><br>Prediction of chaotic Mackay-Glass time series with<br>Dynamic Neural Network  | 
