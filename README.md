@@ -23,7 +23,7 @@ The contents are mainly addressed towards undergraduate courses, however, the mo
 | <img src="Images/example4.png" width="250"><br>Function approximation<br>with GRNN | <img src="Images/example5.png" width="528"><br>Prediction of chaotic Mackay-Glass time series with<br>Dynamic Neural Network  | 
 | ----------- | ----------- |
 
-| <img src="Images/example6.png" width="250"><br>Industrial diagnostics with PCA<br>and Multilayer Perceptron | <img src="Images/example7.png" width="250"><br>1D Self-Organizing Map<br>representing 2D input space | <img src="Images/example.png" width="250"><br>2D Self-Organizing Map<br>representing 2D input space | 
+| <img src="Images/example6.png" width="250"><br>Industrial diagnostics with PCA<br>and Multilayer Perceptron | <img src="Images/example7.png" width="250"><br>1D Self-Organizing Map<br>representing 2D input space | <img src="Images/example8.png" width="250"><br>2D Self-Organizing Map<br>representing 2D input space | 
 | ----------- | ----------- | ----------- |
 
 ## Instructions
