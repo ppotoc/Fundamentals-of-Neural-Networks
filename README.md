@@ -45,7 +45,7 @@ The teaching can also be approached by following the PowerPoint presentations. I
 Live Scripts with complementary PowerPoint presentations are available in folders containing the following chapters: 
 
 0. [NN0 - Contents and instructions](./NN0%20-%20Contents/)
-1. [NN1 - Introduction](./NN1%20-%20Introduction/)
+1. [NN1 - Introduction to neural networks](./NN1%20-%20Introduction/)
 2. [NN2 - Neuron model, network architectures, learning](./NN2%20-%20Neuron%20and%20architectures/)
 3. [NN3 - Perceptron and ADALINE](./NN3%20-%20Perceptron%20and%20Adaline/)
 4. [NN4 - Backpropagation](./NN4%20-%20Backpropagation/)
