@@ -20,7 +20,7 @@ The contents are mainly addressed towards undergraduate courses, however, the mo
 | <img src="Images/example1.png" width="250"><br>Solving XOR problem with<br>Multilayer Perceptron | <img src="Images/example2.png" width="250"><br>Solving XOR problem with<br>Radial Basis Function Network | <img src="Images/example3.png" width="250"><br>4-class classification with<br>Multilayer Perceptron |
 | ----------- | ----------- | ----------- |
 
-| <img src="Images/example4.png" width="250"><br>Function approximation<br>with GRNN | <img src="Images/example5.png" width="500"><br>Prediction of chaotic Mackay-Glass time series with<br>Dynamic Neural Network  | 
+| <img src="Images/example4.png" width="250"><br>Function approximation<br>with GRNN | <img src="Images/example5.png" width="528"><br>Prediction of chaotic Mackay-Glass time series with<br>Dynamic Neural Network  | 
 | ----------- | ----------- |
 
 | <img src="Images/net3.jpg" width="250"><br>Industrial diagnostics with PCA<br>and Multilayer Perceptron | <img src="Images/net7.jpg" width="250"><br>1D Self-Organizing Map<br>representing 2D input space | <img src="Images/net8.jpg" width="250"><br>2D Self-Organizing Map<br>representing 2D input space | 
