@@ -1,5 +1,7 @@
 # Fundamentals of Neural Networks
 
+<img src="Images/matlab_file_exchange.png"> <img src="Images/open-in-matlab-online.png"> 
+
 ## Curriculum Module
 
 _Created with MATLAB R2022a. Compatible with MATLAB R2022a and later releases._
