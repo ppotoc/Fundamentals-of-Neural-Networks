@@ -1,7 +1,7 @@
 # Fundamentals of Neural Networks
 
 [<img src="Images/matlab_file_exchange.png" width="200">](https://uk.mathworks.com/matlabcentral/fileexchange/123320-fundamentals-of-neural-networks)
-[<img src="Images/open-in-matlab-online.png" width="196">]()
+[<img src="Images/open-in-matlab-online.png" width="196">](https://matlab.mathworks.com/open/github/v1?repo=ppotoc/Fundamentals-of-Neural-Networks)
 
 ## Curriculum Module
 
